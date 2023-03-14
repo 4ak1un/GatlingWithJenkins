@@ -1,0 +1,15 @@
+path to the test folder :
+FIX\GatlingDemoProject\src\test
+
+resources::
+feeders - for feeders (csv, other data)
+logback.xml - for creqating execution.log
+
+directly related to the scripts (scala folder) :
+api - scripts of our requests
+config - resp. for constant values  that be reusing in our scripts
+scenarios - scenarios
+simulations - simulations
+
+Script to run test from command line:
+mvn clean gatling:test -DShopizerDemoUsers=10 -DminPause=3 -DmaxPause=5 -DchairBuyersPercent=50 -DcheckoutPercent=30

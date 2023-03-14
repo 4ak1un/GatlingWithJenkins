@@ -1,0 +1,75 @@
+20:53:45.979 [gatling-1-2] TRACE i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+http://localhost:80: OK 
+=========================
+Session:
+Session(Shopizer performance testing,1,Map(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@104a475a, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@416ff05f, gatling.http.referer -> http://localhost/, gatling.http.cache.contentCache -> io.gatling.core.util.cache.Cache@4e635abb),OK,List(),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$471/0x000000080103aaa0@2f58e0e2,io.netty.channel.nio.NioEventLoop@42a9a63e)
+=========================
+HTTP request:
+GET http://localhost/
+headers:
+	accept-language: en-US,en;q=0.5
+	accept-encoding: gzip, deflate
+	accept: */*
+	upgrade-insecure-requests: 1
+	user-agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+	host: localhost
+=========================
+HTTP response:
+status:
+	200 OK
+headers:
+	Server: nginx/1.22.0
+	Date: Sun, 26 Feb 2023 18:53:45 GMT
+	Content-Type: text/html
+	Last-Modified: Fri, 01 Jul 2022 00:32:19 GMT
+	Transfer-Encoding: chunked
+	Connection: keep-alive
+	Vary: Accept-Encoding
+	ETag: W/"62be4093-11c0"
+	Expires: Sun, 26 Feb 2023 18:53:44 GMT
+	Cache-Control: no-cache
+	content-encoding: gzip
+
+body:
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Imports from the world"/><script src="/env-config.js"></script><link rel="manifest" href="/manifest.json"/><title>Importa - Importas from the world</title><link href="/static/css/7.1c265f44.chunk.css" rel="stylesheet"><link href="/static/css/main.f5fefcc9.chunk.css" rel="stylesheet"></head><body><div id="root"></div><script>!function(e){function t(t){for(var n,o,f=t[0],d=t[1],u=t[2],i=0,s=[];i<f.length;i++)o=f[i],Object.prototype.hasOwnProperty.call(c,o)&&c[o]&&s.push(c[o][0]),c[o]=0;for(n in d)Object.prototype.hasOwnProperty.call(d,n)&&(e[n]=d[n]);for(l&&l(t);s.length;)s.shift()();return a.push.apply(a,u||[]),r()}function r(){for(var e,t=0;t<a.length;t++){for(var r=a[t],n=!0,o=1;o<r.length;o++){var d=r[o];0!==c[d]&&(n=!1)}n&&(a.splice(t--,1),e=f(f.s=r[0]))}return e}var n={},o={6:0},c={6:0},a=[];function f(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,f),r.l=!0,r.exports}f.e=function(e){var t=[];o[e]?t.push(o[e]):0!==o[e]&&{3:1}[e]&&t.push(o[e]=new Promise((function(t,r){for(var n="static/css/"+({}[e]||e)+"."+{0:"31d6cfe0",1:"31d6cfe0",2:"31d6cfe0",3:"c691157b",4:"31d6cfe0",8:"31d6cfe0",9:"31d6cfe0",10:"31d6cfe0",11:"31d6cfe0",12:"31d6cfe0",13:"31d6cfe0",14:"31d6cfe0",15:"31d6cfe0",16:"31d6cfe0",17:"31d6cfe0",18:"31d6cfe0",19:"31d6cfe0",20:"31d6cfe0",21:"31d6cfe0",22:"31d6cfe0",23:"31d6cfe0",24:"31d6cfe0",25:"31d6cfe0",26:"31d6cfe0",27:"31d6cfe0"}[e]+".chunk.css",c=f.p+n,a=document.getElementsByTagName("link"),d=0;d<a.length;d++){var u=(l=a[d]).getAttribute("data-href")||l.getAttribute("href");if("stylesheet"===l.rel&&(u===n||u===c))return t()}var i=document.getElementsByTagName("style");for(d=0;d<i.length;d++){var l;if((u=(l=i[d]).getAttribute("data-href"))===n||u===c)return t()}var s=document.createElement("link");s.rel="stylesheet",s.type="text/css",s.onload=t,s.onerror=function(t){var n=t&&t.target&&t.target.src||c,a=new Error("Loading CSS chunk "+e+" failed.\n("+n+")");a.code="CSS_CHUNK_LOAD_FAILED",a.request=n,delete o[e],s.parentNode.removeChild(s),r(a)},s.href=c,document.getElementsByTagName("head")[0].appendChild(s)})).then((function(){o[e]=0})));var r=c[e];if(0!==r)if(r)t.push(r[2]);else{var n=new Promise((function(t,n){r=c[e]=[t,n]}));t.push(r[2]=n);var a,d=document.createElement("script");d.charset="utf-8",d.timeout=120,f.nc&&d.setAttribute("nonce",f.nc),d.src=function(e){return f.p+"static/js/"+({}[e]||e)+"."+{0:"b3d2e5a1",1:"9ed13724",2:"526c99e3",3:"92dec9f6",4:"acb95ef1",8:"1f2d5137",9:"459c8e1e",10:"5d93351b",11:"ae39d98c",12:"bf51a48a",13:"53163515",14:"536b2497",15:"32f574b3",16:"98c88f22",17:"a77c9767",18:"5334339f",19:"09a6da15",20:"4e69031c",21:"ab3d7833",22:"adf0ba2e",23:"44ddd510",24:"9b3dbfe7",25:"ae1516a3",26:"079b6395",27:"44c0ece4"}[e]+".chunk.js"}(e);var u=new Error;a=function(t){d.onerror=d.onload=null,clearTimeout(i);var r=c[e];if(0!==r){if(r){var n=t&&("load"===t.type?"missing":t.type),o=t&&t.target&&t.target.src;u.message="Loading chunk "+e+" failed.\n("+n+": "+o+")",u.name="ChunkLoadError",u.type=n,u.request=o,r[1](u)}c[e]=void 0}};var i=setTimeout((function(){a({type:"timeout",target:d})}),12e4);d.onerror=d.onload=a,document.head.appendChild(d)}return Promise.all(t)},f.m=e,f.c=n,f.d=function(e,t,r){f.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},f.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},f.t=function(e,t){if(1&t&&(e=f(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(f.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var n in e)f.d(r,n,function(t){return e[t]}.bind(null,n));return r},f.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return f.d(t,"a",t),t},f.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},f.p="/",f.oe=function(e){throw console.error(e),e};var d=this["webpackJsonpshop-react"]=this["webpackJsonpshop-react"]||[],u=d.push.bind(d);d.push=t,d=d.slice();for(var i=0;i<d.length;i++)t(d[i]);var l=u;r()}([])</script><script src="/static/js/7.2dc47884.chunk.js"></script><script src="/static/js/main.99202d0a.chunk.js"></script></body></html>
+<<<<<<<<<<<<<<<<<<<<<<<<<
+20:53:46.009 [gatling-1-2] TRACE i.g.h.e.r.DefaultStatsProcessor - 
+>>>>>>>>>>>>>>>>>>>>>>>>>>
+Request:
+http://localhost:80: OK 
+=========================
+Session:
+Session(Shopizer performance testing,1,HashMap(gatling.http.ssl.sslContexts -> io.gatling.http.util.SslContexts@104a475a, gatling.http.referer -> http://localhost/, 3242a160-9ef0-44ce-b375-83006ee570aa -> 0, gatling.http.cache.dns -> io.gatling.http.resolver.ShufflingNameResolver@416ff05f, gatling.http.cache.contentCache -> io.gatling.core.util.cache.Cache@7d6e5482),OK,List(GroupBlock(List(Open the application),1677437625993,6,OK), TryMaxBlock(3242a160-9ef0-44ce-b375-83006ee570aa,io.gatling.core.action.InnerTryMax@6426960d,OK)),io.gatling.core.protocol.ProtocolComponentsRegistry$$Lambda$471/0x000000080103aaa0@2f58e0e2,io.netty.channel.nio.NioEventLoop@42a9a63e)
+=========================
+HTTP request:
+GET http://localhost/
+headers:
+	accept-language: en-US,en;q=0.5
+	accept-encoding: gzip, deflate
+	accept: */*
+	upgrade-insecure-requests: 1
+	user-agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+	referer: http://localhost/
+	host: localhost
+=========================
+HTTP response:
+status:
+	200 OK
+headers:
+	Server: nginx/1.22.0
+	Date: Sun, 26 Feb 2023 18:53:46 GMT
+	Content-Type: text/html
+	Last-Modified: Fri, 01 Jul 2022 00:32:19 GMT
+	Transfer-Encoding: chunked
+	Connection: keep-alive
+	Vary: Accept-Encoding
+	ETag: W/"62be4093-11c0"
+	Expires: Sun, 26 Feb 2023 18:53:45 GMT
+	Cache-Control: no-cache
+	content-encoding: gzip
+
+body:
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="icon" href="/favicon.ico"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#000000"/><meta name="description" content="Imports from the world"/><script src="/env-config.js"></script><link rel="manifest" href="/manifest.json"/><title>Importa - Importas from the world</title><link href="/static/css/7.1c265f44.chunk.css" rel="stylesheet"><link href="/static/css/main.f5fefcc9.chunk.css" rel="stylesheet"></head><body><div id="root"></div><script>!function(e){function t(t){for(var n,o,f=t[0],d=t[1],u=t[2],i=0,s=[];i<f.length;i++)o=f[i],Object.prototype.hasOwnProperty.call(c,o)&&c[o]&&s.push(c[o][0]),c[o]=0;for(n in d)Object.prototype.hasOwnProperty.call(d,n)&&(e[n]=d[n]);for(l&&l(t);s.length;)s.shift()();return a.push.apply(a,u||[]),r()}function r(){for(var e,t=0;t<a.length;t++){for(var r=a[t],n=!0,o=1;o<r.length;o++){var d=r[o];0!==c[d]&&(n=!1)}n&&(a.splice(t--,1),e=f(f.s=r[0]))}return e}var n={},o={6:0},c={6:0},a=[];function f(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,f),r.l=!0,r.exports}f.e=function(e){var t=[];o[e]?t.push(o[e]):0!==o[e]&&{3:1}[e]&&t.push(o[e]=new Promise((function(t,r){for(var n="static/css/"+({}[e]||e)+"."+{0:"31d6cfe0",1:"31d6cfe0",2:"31d6cfe0",3:"c691157b",4:"31d6cfe0",8:"31d6cfe0",9:"31d6cfe0",10:"31d6cfe0",11:"31d6cfe0",12:"31d6cfe0",13:"31d6cfe0",14:"31d6cfe0",15:"31d6cfe0",16:"31d6cfe0",17:"31d6cfe0",18:"31d6cfe0",19:"31d6cfe0",20:"31d6cfe0",21:"31d6cfe0",22:"31d6cfe0",23:"31d6cfe0",24:"31d6cfe0",25:"31d6cfe0",26:"31d6cfe0",27:"31d6cfe0"}[e]+".chunk.css",c=f.p+n,a=document.getElementsByTagName("link"),d=0;d<a.length;d++){var u=(l=a[d]).getAttribute("data-href")||l.getAttribute("href");if("stylesheet"===l.rel&&(u===n||u===c))return t()}var i=document.getElementsByTagName("style");for(d=0;d<i.length;d++){var l;if((u=(l=i[d]).getAttribute("data-href"))===n||u===c)return t()}var s=document.createElement("link");s.rel="stylesheet",s.type="text/css",s.onload=t,s.onerror=function(t){var n=t&&t.target&&t.target.src||c,a=new Error("Loading CSS chunk "+e+" failed.\n("+n+")");a.code="CSS_CHUNK_LOAD_FAILED",a.request=n,delete o[e],s.parentNode.removeChild(s),r(a)},s.href=c,document.getElementsByTagName("head")[0].appendChild(s)})).then((function(){o[e]=0})));var r=c[e];if(0!==r)if(r)t.push(r[2]);else{var n=new Promise((function(t,n){r=c[e]=[t,n]}));t.push(r[2]=n);var a,d=document.createElement("script");d.charset="utf-8",d.timeout=120,f.nc&&d.setAttribute("nonce",f.nc),d.src=function(e){return f.p+"static/js/"+({}[e]||e)+"."+{0:"b3d2e5a1",1:"9ed13724",2:"526c99e3",3:"92dec9f6",4:"acb95ef1",8:"1f2d5137",9:"459c8e1e",10:"5d93351b",11:"ae39d98c",12:"bf51a48a",13:"53163515",14:"536b2497",15:"32f574b3",16:"98c88f22",17:"a77c9767",18:"5334339f",19:"09a6da15",20:"4e69031c",21:"ab3d7833",22:"adf0ba2e",23:"44ddd510",24:"9b3dbfe7",25:"ae1516a3",26:"079b6395",27:"44c0ece4"}[e]+".chunk.js"}(e);var u=new Error;a=function(t){d.onerror=d.onload=null,clearTimeout(i);var r=c[e];if(0!==r){if(r){var n=t&&("load"===t.type?"missing":t.type),o=t&&t.target&&t.target.src;u.message="Loading chunk "+e+" failed.\n("+n+": "+o+")",u.name="ChunkLoadError",u.type=n,u.request=o,r[1](u)}c[e]=void 0}};var i=setTimeout((function(){a({type:"timeout",target:d})}),12e4);d.onerror=d.onload=a,document.head.appendChild(d)}return Promise.all(t)},f.m=e,f.c=n,f.d=function(e,t,r){f.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},f.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},f.t=function(e,t){if(1&t&&(e=f(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(f.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var n in e)f.d(r,n,function(t){return e[t]}.bind(null,n));return r},f.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return f.d(t,"a",t),t},f.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},f.p="/",f.oe=function(e){throw console.error(e),e};var d=this["webpackJsonpshop-react"]=this["webpackJsonpshop-react"]||[],u=d.push.bind(d);d.push=t,d=d.slice();for(var i=0;i<d.length;i++)t(d[i]);var l=u;r()}([])</script><script src="/static/js/7.2dc47884.chunk.js"></script><script src="/static/js/main.99202d0a.chunk.js"></script></body></html>
+<<<<<<<<<<<<<<<<<<<<<<<<<

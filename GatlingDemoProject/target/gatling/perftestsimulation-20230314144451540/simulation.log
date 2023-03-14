@@ -1,0 +1,641 @@
+RUN	simulations.PerfTestSimulation	perftestsimulation	1678805091540	 	3.6.1
+USER	Shopizer performance testing	START	1678805092551
+USER	Shopizer performance testing	START	1678805092550
+USER	Shopizer performance testing	START	1678805092550
+USER	Shopizer performance testing	START	1678805092551
+USER	Shopizer performance testing	START	1678805092550
+USER	Shopizer performance testing	START	1678805092550
+USER	Shopizer performance testing	START	1678805092550
+USER	Shopizer performance testing	START	1678805092551
+USER	Shopizer performance testing	START	1678805092550
+USER	Shopizer performance testing	START	1678805092550
+REQUEST	Open the application	localhost	1678805092610	1678805092862	OK	 
+REQUEST	Open the application	localhost	1678805092610	1678805093098	OK	 
+REQUEST	Open the application	localhost	1678805092609	1678805093105	OK	 
+REQUEST	Open the application	localhost	1678805092609	1678805092862	OK	 
+REQUEST	Open the application	localhost	1678805092609	1678805092862	OK	 
+REQUEST	Open the application	localhost	1678805092609	1678805093102	OK	 
+REQUEST	Open the application	localhost	1678805092610	1678805093096	OK	 
+REQUEST	Open the application	localhost	1678805092609	1678805093104	OK	 
+REQUEST	Open the application	localhost	1678805092609	1678805093105	OK	 
+REQUEST	Open the application	localhost	1678805092609	1678805093099	OK	 
+REQUEST	Open the application	ping	1678805093176	1678805093679	OK	 
+REQUEST	Open the application	ping	1678805093171	1678805093476	OK	 
+REQUEST	Open the application	ping	1678805093172	1678805093662	OK	 
+REQUEST	Open the application	ping	1678805093172	1678805093560	OK	 
+REQUEST	Open the application	ping	1678805093174	1678805093522	OK	 
+REQUEST	Open the application	ping	1678805093171	1678805093658	OK	 
+REQUEST	Open the application	ping	1678805093172	1678805093585	OK	 
+REQUEST	Open the application	ping	1678805093170	1678805093676	OK	 
+REQUEST	Open the application	ping	1678805093170	1678805093686	OK	 
+REQUEST	Open the application	ping	1678805093171	1678805093672	OK	 
+REQUEST	Open the application	?lang=en	1678805093952	1678805094276	OK	 
+REQUEST	Open the application	?lang=en	1678805093948	1678805094295	OK	 
+REQUEST	Open the application	?lang=en	1678805093950	1678805094304	OK	 
+REQUEST	Open the application	?lang=en	1678805093946	1678805094316	OK	 
+REQUEST	Open the application	?lang=en	1678805093962	1678805094325	OK	 
+REQUEST	Open the application	?lang=en	1678805093946	1678805094334	OK	 
+REQUEST	Open the application	?lang=en	1678805093963	1678805094339	OK	 
+REQUEST	Open the application	?lang=en	1678805093957	1678805094344	OK	 
+REQUEST	Open the application	?lang=en	1678805093952	1678805094378	OK	 
+REQUEST	Open the application	?lang=en	1678805093947	1678805094396	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094297	1678805098274	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094336	1678805098274	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094398	1678805098323	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094321	1678805098331	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094341	1678805098333	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094380	1678805098336	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094347	1678805098354	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094279	1678805098372	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094327	1678805098393	OK	 
+REQUEST	Open the application	group/FEATURED_ITEM?store=DEFAULT&lang=en	1678805094307	1678805098414	OK	 
+REQUEST	Open the application	DEFAULT	1678805098333	1678805098584	OK	 
+REQUEST	Open the application	DEFAULT	1678805098335	1678805098589	OK	 
+REQUEST	Open the application	DEFAULT	1678805098395	1678805098599	OK	 
+REQUEST	Open the application	DEFAULT	1678805098356	1678805098595	OK	 
+REQUEST	Open the application	DEFAULT	1678805098281	1678805098601	OK	 
+REQUEST	Open the application	DEFAULT	1678805098416	1678805098583	OK	 
+REQUEST	Open the application	DEFAULT	1678805098338	1678805098588	OK	 
+REQUEST	Open the application	DEFAULT	1678805098374	1678805098607	OK	 
+REQUEST	Open the application	DEFAULT	1678805098281	1678805098616	OK	 
+REQUEST	Open the application	DEFAULT	1678805098325	1678805098613	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098600	1678805098705	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098604	1678805098716	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098600	1678805098736	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098623	1678805098738	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098619	1678805098744	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098624	1678805098744	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098605	1678805098779	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098607	1678805098779	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098719	1678805098784	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098741	1678805098788	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098707	1678805098795	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098604	1678805098794	OK	 
+REQUEST	Open the application	?count=20&page=0&store=DEFAULT&lang=en	1678805098603	1678805098806	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098781	1678805098898	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098745	1678805098914	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098745	1678805098932	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098781	1678805098943	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098799	1678805098970	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098737	1678805098973	OK	 
+REQUEST	Open the application	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805098809	1678805098978	OK	 
+REQUEST	Open the application	price/	1678805098832	1678805099394	OK	 
+REQUEST	Open the application	price/	1678805098934	1678805099398	OK	 
+REQUEST	Open the application	price/	1678805098917	1678805099411	OK	 
+REQUEST	Open the application	price/	1678805098980	1678805099411	OK	 
+REQUEST	Open the application	price/	1678805098975	1678805099430	OK	 
+REQUEST	Open the application	price/	1678805098829	1678805099434	OK	 
+REQUEST	Open the application	price/	1678805098825	1678805099446	OK	 
+REQUEST	Open the application	price/	1678805098900	1678805099467	OK	 
+REQUEST	Open the application	price/	1678805099397	1678805099514	OK	 
+REQUEST	Open the application	price/	1678805098945	1678805099514	OK	 
+REQUEST	Open the application	price/	1678805098972	1678805099519	OK	 
+REQUEST	Open the application	price/	1678805099413	1678805099560	OK	 
+REQUEST	Open the application	price/	1678805099404	1678805099563	OK	 
+REQUEST	Open the application	price/	1678805099449	1678805099595	OK	 
+REQUEST	Open the application	price/	1678805099436	1678805099594	OK	 
+REQUEST	Open the application	price/	1678805099413	1678805099604	OK	 
+REQUEST	Open the application	price/	1678805099517	1678805099608	OK	 
+REQUEST	Open the application	price/	1678805099471	1678805099622	OK	 
+REQUEST	Open the application	price/	1678805099436	1678805099634	OK	 
+REQUEST	Open the application	price/	1678805099517	1678805099686	OK	 
+REQUEST	Open the application	price/	1678805099522	1678805099701	OK	 
+REQUEST	Open the application	price/	1678805099563	1678805099705	OK	 
+REQUEST	Open the application	price/	1678805099566	1678805099772	OK	 
+REQUEST	Open the application	price/	1678805099624	1678805099791	OK	 
+REQUEST	Open the application	price/	1678805099606	1678805099792	OK	 
+REQUEST	Open the application	price/	1678805099637	1678805099794	OK	 
+REQUEST	Open the application	price/	1678805099597	1678805099799	OK	 
+REQUEST	Open the application	price/	1678805099597	1678805099848	OK	 
+REQUEST	Open the application	price/	1678805099610	1678805099876	OK	 
+REQUEST	Open the application	price/	1678805099688	1678805099905	OK	 
+REQUEST	Open the application	price/	1678805099708	1678805099918	OK	 
+REQUEST	Open the application	price/	1678805099704	1678805099921	OK	 
+REQUEST	Open the application	price/	1678805099774	1678805099941	OK	 
+REQUEST	Open the application	price/	1678805099795	1678805099976	OK	 
+REQUEST	Open the application	price/	1678805099796	1678805099976	OK	 
+REQUEST	Open the application	price/	1678805099796	1678805099999	OK	 
+REQUEST	Open the application	price/	1678805099850	1678805100023	OK	 
+REQUEST	Open the application	price/	1678805099877	1678805100024	OK	 
+REQUEST	Open the application	price/	1678805099801	1678805100040	OK	 
+REQUEST	Open the application	price/	1678805099923	1678805100076	OK	 
+REQUEST	Open the application	price/	1678805099945	1678805100075	OK	 
+REQUEST	Open the application	price/	1678805099907	1678805100083	OK	 
+REQUEST	Open the application	price/	1678805099921	1678805100092	OK	 
+REQUEST	Open the application	price/	1678805099978	1678805100133	OK	 
+REQUEST	Open the application	price/	1678805100002	1678805100146	OK	 
+REQUEST	Open the application	price/	1678805100094	1678805100169	OK	 
+REQUEST	Open the application	price/	1678805100077	1678805100171	OK	 
+REQUEST	Open the application	price/	1678805100025	1678805100177	OK	 
+REQUEST	Open the application	price/	1678805100025	1678805100177	OK	 
+REQUEST	Open the application	price/	1678805100042	1678805100185	OK	 
+REQUEST	Open the application	price/	1678805099978	1678805100188	OK	 
+REQUEST	Open the application	price/	1678805100077	1678805100215	OK	 
+REQUEST	Open the application	price/	1678805100085	1678805100235	OK	 
+REQUEST	Open the application	price/	1678805100148	1678805100259	OK	 
+REQUEST	Open the application	price/	1678805100179	1678805100301	OK	 
+REQUEST	Open the application	price/	1678805100190	1678805100301	OK	 
+REQUEST	Open the application	price/	1678805100136	1678805100308	OK	 
+REQUEST	Open the application	price/	1678805100171	1678805100315	OK	 
+REQUEST	Open the application	price/	1678805100188	1678805100327	OK	 
+REQUEST	Open the application	price/	1678805100179	1678805100332	OK	 
+REQUEST	Open the application	price/	1678805100220	1678805100336	OK	 
+REQUEST	Open the application	price/	1678805100173	1678805100386	OK	 
+REQUEST	Open the application	price/	1678805100261	1678805100405	OK	 
+REQUEST	Open the application	price/	1678805100237	1678805100434	OK	 
+REQUEST	Open the application	price/	1678805100329	1678805100438	OK	 
+REQUEST	Open the application	price/	1678805100303	1678805100441	OK	 
+REQUEST	Open the application	price/	1678805100310	1678805100445	OK	 
+REQUEST	Open the application	price/	1678805100304	1678805100481	OK	 
+REQUEST	Open the application	price/	1678805100338	1678805100486	OK	 
+REQUEST	Open the application	price/	1678805100334	1678805100499	OK	 
+REQUEST	Open the application	price/	1678805100317	1678805100514	OK	 
+REQUEST	Open the application	price/	1678805100408	1678805100583	OK	 
+REQUEST	Open the application	price/	1678805100435	1678805100583	OK	 
+REQUEST	Open the application	price/	1678805100388	1678805100583	OK	 
+REQUEST	Open the application	price/	1678805100441	1678805100584	OK	 
+REQUEST	Open the application	price/	1678805100443	1678805100584	OK	 
+REQUEST	Open the application	price/	1678805100447	1678805100587	OK	 
+REQUEST	Open the application	price/	1678805100501	1678805100588	OK	 
+REQUEST	Open the application	price/	1678805100584	1678805100621	OK	 
+REQUEST	Open the application	price/	1678805100484	1678805100625	OK	 
+GROUP	Open the application	1678805092558	1678805103942	7122	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805103976	1678805104031	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805104037	1678805104069	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805104072	1678805104118	OK	 
+GROUP	Open the application	1678805092558	1678805104147	7556	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805104148	1678805104157	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805104159	1678805104173	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805104184	1678805104258	OK	 
+GROUP	Open the application	1678805092558	1678805104414	7272	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805104416	1678805104426	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805104428	1678805104439	OK	 
+GROUP	Open the application	1678805092558	1678805104467	7627	OK
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805104441	1678805104473	OK	 
+REQUEST	Navigate to "Tables" tab	tables	1678805104468	1678805104477	OK	 
+GROUP	Open the application	1678805092558	1678805104479	7482	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805104480	1678805104486	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805104488	1678805104506	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805104479	1678805104527	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805104259	1678805104550	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805104120	1678805104555	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805104477	1678805104566	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805104509	1678805104602	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805104556	1678805104614	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805104567	1678805104640	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805104552	1678805104647	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805104528	1678805104671	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805104620	1678805104709	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805104654	1678805104718	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805104642	1678805104743	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805104719	1678805104790	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805104747	1678805104792	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805104604	1678805104797	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805104711	1678805104816	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805104794	1678805104839	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805104799	1678805104851	OK	 
+GROUP	Open the application	1678805092558	1678805104898	7329	OK
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805104673	1678805104915	OK	 
+REQUEST	Navigate to "Tables" tab	tables	1678805104899	1678805104939	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805104841	1678805104942	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805104854	1678805104951	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805104791	1678805104970	OK	 
+GROUP	Open the application	1678805092558	1678805104971	7543	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805104971	1678805104983	OK	 
+GROUP	Open the application	1678805092558	1678805105003	7559	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805105004	1678805105014	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805104818	1678805105020	OK	 
+GROUP	Open the application	1678805092558	1678805105023	7276	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805105024	1678805105030	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805104941	1678805105032	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805104985	1678805105045	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805104952	1678805105049	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805105033	1678805105071	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805104971	1678805105096	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805105016	1678805105099	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805104916	1678805105123	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805105036	1678805105162	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805105022	1678805105169	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805105074	1678805105178	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805105047	1678805105224	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805105050	1678805105234	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805105102	1678805105237	OK	 
+GROUP	Open the application	1678805092558	1678805105241	7625	OK
+REQUEST	Navigate to "Tables" tab	tables	1678805105242	1678805105249	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805105126	1678805105268	OK	 
+REQUEST	Navigate to "Tables" tab	ping	1678805105250	1678805105268	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805105163	1678805105350	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805105098	1678805105354	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805105235	1678805105357	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805104943	1678805105364	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805105170	1678805105367	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805105270	1678805105371	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805105351	1678805105418	OK	 
+REQUEST	Navigate to "Tables" tab	?lang=en	1678805105271	1678805105439	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805105179	1678805105439	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805105239	1678805105461	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805105358	1678805105464	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805105225	1678805105499	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805105441	1678805105537	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805105500	1678805105575	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805105462	1678805105606	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805105421	1678805105633	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805105373	1678805105653	OK	 
+REQUEST	Navigate to "Tables" tab	?&store=DEFAULT&lang=en&page=0&count=15&category=50	1678805105441	1678805105659	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805105577	1678805105675	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805105539	1678805105701	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805105636	1678805105709	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805105655	1678805105779	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805105610	1678805105784	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805105677	1678805105794	OK	 
+REQUEST	Navigate to "Tables" tab	DEFAULT	1678805105661	1678805105792	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805105703	1678805105829	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805105785	1678805105903	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805105710	1678805105921	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805105780	1678805105936	OK	 
+REQUEST	Navigate to "Tables" tab	?count=20&page=0&store=DEFAULT&lang=en	1678805105796	1678805105957	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805105796	1678805105981	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805105831	1678805106080	OK	 
+REQUEST	Navigate to "Tables" tab	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805105959	1678805106087	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805105905	1678805106095	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805105982	1678805106110	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805105923	1678805106129	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805106097	1678805106168	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805106112	1678805106209	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805106083	1678805106255	OK	 
+REQUEST	Navigate to "Tables" tab	price/	1678805106092	1678805106280	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805106131	1678805106283	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805106170	1678805106313	OK	 
+REQUEST	Navigate to "Tables" tab	50?store=DEFAULT&lang=en	1678805106282	1678805106367	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805106257	1678805106377	OK	 
+REQUEST	Navigate to "Tables" tab	50/manufacturers/?store=DEFAULT&lang=en	1678805106368	1678805106463	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805106464	1678805106555	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805105366	1678805106559	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805105466	1678805106559	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805105370	1678805106566	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805106378	1678805106566	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805105356	1678805106578	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805106315	1678805106578	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805105937	1678805106582	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805106284	1678805106584	OK	 
+REQUEST	Navigate to "Tables" tab	50/variants/?store=DEFAULT&lang=en	1678805106210	1678805106585	OK	 
+GROUP	Navigate to "Tables" tab	1678805105003	1678805109585	1553	OK
+REQUEST	Open a table product card	olive-table	1678805109596	1678805109613	OK	 
+REQUEST	Open a table product card	ping	1678805109614	1678805109628	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805109633	1678805109691	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805109692	1678805109737	OK	 
+REQUEST	Open a table product card	?lang=en	1678805109738	1678805109759	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805109760	1678805109777	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805109792	1678805109814	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805109816	1678805109832	OK	 
+REQUEST	Open a table product card	price/	1678805109833	1678805109871	OK	 
+GROUP	Navigate to "Tables" tab	1678805104467	1678805109887	2097	OK
+REQUEST	Open a table product card	olive-table	1678805109888	1678805109893	OK	 
+REQUEST	Open a table product card	ping	1678805109894	1678805109906	OK	 
+GROUP	Navigate to "Tables" tab	1678805105023	1678805110086	1521	OK
+REQUEST	Open a table product card	olive-table	1678805110087	1678805110095	OK	 
+REQUEST	Open a table product card	ping	1678805110096	1678805110115	OK	 
+GROUP	Navigate to "Tables" tab	1678805104971	1678805110144	1598	OK
+REQUEST	Open a table product card	olive-table	1678805110146	1678805110155	OK	 
+REQUEST	Open a table product card	ping	1678805110156	1678805110178	OK	 
+GROUP	Navigate to "Tables" tab	1678805104414	1678805110304	2121	OK
+REQUEST	Open a table product card	olive-table	1678805110305	1678805110311	OK	 
+REQUEST	Open a table product card	ping	1678805110312	1678805110330	OK	 
+GROUP	Navigate to "Tables" tab	1678805103974	1678805110577	2562	OK
+REQUEST	Open a table product card	olive-table	1678805110578	1678805110587	OK	 
+REQUEST	Open a table product card	ping	1678805110588	1678805110609	OK	 
+GROUP	Navigate to "Tables" tab	1678805104147	1678805110881	2400	OK
+REQUEST	Open a table product card	olive-table	1678805110882	1678805110893	OK	 
+REQUEST	Open a table product card	ping	1678805110894	1678805110937	OK	 
+GROUP	Navigate to "Tables" tab	1678805104479	1678805111343	2061	OK
+REQUEST	Open a table product card	olive-table	1678805111348	1678805111393	OK	 
+GROUP	Navigate to "Tables" tab	1678805105242	1678805111414	1290	OK
+REQUEST	Open a table product card	olive-table	1678805111422	1678805111428	OK	 
+REQUEST	Open a table product card	ping	1678805111395	1678805111448	OK	 
+REQUEST	Open a table product card	ping	1678805111430	1678805111463	OK	 
+GROUP	Navigate to "Tables" tab	1678805104899	1678805111468	1665	OK
+REQUEST	Open a table product card	olive-table	1678805111469	1678805111474	OK	 
+REQUEST	Open a table product card	ping	1678805111476	1678805111529	OK	 
+GROUP	Open a table product card	1678805109585	1678805113911	248	OK
+REQUEST	Add table to Cart	Add table to Cart	1678805113954	1678805115098	OK	 
+REQUEST	Add table to Cart	3e6e42656b0f4e9384658151358bf030?lang=en	1678805115307	1678805115374	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805110181	1678805118948	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805110332	1678805118940	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805111531	1678805118938	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805110611	1678805118944	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805109908	1678805118944	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805110117	1678805118942	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805111452	1678805118942	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805111464	1678805118952	OK	 
+REQUEST	Open a table product card	1?lang=en&store=DEFAULT	1678805111054	1678805118955	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118952	1678805119024	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118952	1678805119054	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118956	1678805119054	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118952	1678805119056	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118953	1678805119059	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118952	1678805119071	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118952	1678805119079	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118952	1678805119085	OK	 
+REQUEST	Open a table product card	1/reviews?store=DEFAULT	1678805118952	1678805119085	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119057	1678805119124	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119055	1678805119155	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119025	1678805119174	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119055	1678805119208	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119072	1678805119224	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119080	1678805119225	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119086	1678805119231	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119086	1678805119237	OK	 
+REQUEST	Open a table product card	?lang=en	1678805119060	1678805119242	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119176	1678805119250	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119125	1678805119259	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119156	1678805119253	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119226	1678805119315	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119246	1678805119317	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119225	1678805119319	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119232	1678805119323	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119261	1678805119335	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119238	1678805119355	OK	 
+REQUEST	Open a table product card	DEFAULT	1678805119209	1678805119365	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119262	1678805119384	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119262	1678805119387	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119337	1678805119391	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119317	1678805119419	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119322	1678805119423	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119319	1678805119450	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119424	1678805119455	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119358	1678805119460	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119368	1678805119470	OK	 
+REQUEST	Open a table product card	?count=20&page=0&store=DEFAULT&lang=en	1678805119327	1678805119470	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119386	1678805119486	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119421	1678805119496	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119462	1678805119499	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119389	1678805119514	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119471	1678805119515	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119452	1678805119536	OK	 
+REQUEST	Open a table product card	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805119472	1678805119542	OK	 
+REQUEST	Open a table product card	price/	1678805119393	1678805119561	OK	 
+REQUEST	Open a table product card	price/	1678805119538	1678805119601	OK	 
+REQUEST	Open a table product card	price/	1678805119500	1678805119606	OK	 
+REQUEST	Open a table product card	price/	1678805119458	1678805119618	OK	 
+REQUEST	Open a table product card	price/	1678805119498	1678805119630	OK	 
+REQUEST	Open a table product card	price/	1678805119487	1678805119645	OK	 
+REQUEST	Open a table product card	price/	1678805119518	1678805119652	OK	 
+REQUEST	Open a table product card	price/	1678805119515	1678805119663	OK	 
+REQUEST	Open a table product card	price/	1678805119544	1678805119665	OK	 
+GROUP	Add table to Cart	1678805113918	1678805119860	1211	OK
+REQUEST	Click "Chairs tab"	chairs	1678805119887	1678805119902	OK	 
+REQUEST	Click "Chairs tab"	ping	1678805119906	1678805119931	OK	 
+REQUEST	Click "Chairs tab"	?lang=en	1678805119935	1678805119990	OK	 
+REQUEST	Click "Chairs tab"	?&store=DEFAULT&lang=en&page=0&count=15&category=51	1678805119991	1678805120025	OK	 
+REQUEST	Click "Chairs tab"	?count=20&page=0&store=DEFAULT&lang=en	1678805120026	1678805120041	OK	 
+REQUEST	Click "Chairs tab"	DEFAULT	1678805120042	1678805120056	OK	 
+REQUEST	Click "Chairs tab"	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805120059	1678805120074	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805120076	1678805120099	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805120100	1678805120120	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805120121	1678805120143	OK	 
+REQUEST	Click "Chairs tab"	51?store=DEFAULT&lang=en	1678805120144	1678805120167	OK	 
+REQUEST	Click "Chairs tab"	51/manufacturers/?store=DEFAULT&lang=en	1678805120170	1678805120216	OK	 
+REQUEST	Click "Chairs tab"	51/variants/?store=DEFAULT&lang=en	1678805120217	1678805120377	OK	 
+GROUP	Open a table product card	1678805111422	1678805122964	8164	OK
+GROUP	Open a table product card	1678805111468	1678805123024	8168	OK
+GROUP	Open a table product card	1678805110304	1678805123075	9289	OK
+REQUEST	Add table to Cart	Add table to Cart	1678805122972	1678805123062	OK	 
+REQUEST	Add table to Cart	Add table to Cart	1678805123025	1678805123136	OK	 
+REQUEST	Add table to Cart	24578cd605b74cf5a4e52eea20b0ee0d?lang=en	1678805123084	1678805123151	OK	 
+REQUEST	Add table to Cart	Add table to Cart	1678805123077	1678805123199	OK	 
+REQUEST	Add table to Cart	fd5b2136c5094555888781a47cc7e26c?lang=en	1678805123144	1678805123229	OK	 
+REQUEST	Add table to Cart	dd77a4b32f164424b22e4ff2447dad2b?lang=en	1678805123220	1678805123278	OK	 
+GROUP	Open a table product card	1678805110145	1678805123594	9444	OK
+GROUP	Open a table product card	1678805110086	1678805123631	9545	OK
+GROUP	Open a table product card	1678805111344	1678805123657	8258	OK
+REQUEST	Add table to Cart	Add table to Cart	1678805123659	1678805123752	OK	 
+REQUEST	Add table to Cart	Add table to Cart	1678805123632	1678805123749	OK	 
+REQUEST	Add table to Cart	Add table to Cart	1678805123599	1678805123752	OK	 
+GROUP	Open a table product card	1678805109887	1678805123814	9744	OK
+REQUEST	Add table to Cart	669c10784d4c40bc8978424e21db04fe?lang=en	1678805123763	1678805123818	OK	 
+REQUEST	Add table to Cart	e6ba801104c6427b92b090fe281d5b32?lang=en	1678805123763	1678805123826	OK	 
+REQUEST	Add table to Cart	05942c2e8f8841029c2a68335a72283e?lang=en	1678805123763	1678805123850	OK	 
+REQUEST	Add table to Cart	Add table to Cart	1678805123815	1678805123908	OK	 
+REQUEST	Add table to Cart	ed1898ed09bd4d6aae44cbb6ce3d0f1a?lang=en	1678805123915	1678805123952	OK	 
+GROUP	Open a table product card	1678805110577	1678805124301	8964	OK
+GROUP	Click "Chairs tab"	1678805119886	1678805124379	467	OK
+REQUEST	Add table to Cart	Add table to Cart	1678805124314	1678805124376	OK	 
+REQUEST	Add table to Cart	d6649b23bf344cf590f70bd071c5ae68?lang=en	1678805124389	1678805124422	OK	 
+REQUEST	Open random chair	genuine-chair	1678805124419	1678805124427	OK	 
+REQUEST	Open random chair	ping	1678805124428	1678805124438	OK	 
+REQUEST	Open random chair	?lang=en	1678805124440	1678805124463	OK	 
+GROUP	Open a table product card	1678805110881	1678805124466	8630	OK
+REQUEST	Open random chair	51/reviews?store=DEFAULT	1678805124464	1678805124494	OK	 
+REQUEST	Open random chair	51?lang=en&store=DEFAULT	1678805124496	1678805124526	OK	 
+REQUEST	Add table to Cart	Add table to Cart	1678805124467	1678805124544	OK	 
+REQUEST	Open random chair	?count=20&page=0&store=DEFAULT&lang=en	1678805124529	1678805124568	OK	 
+REQUEST	Open random chair	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805124570	1678805124594	OK	 
+REQUEST	Add table to Cart	a342a9061fb541a38d904cff3e436992?lang=en	1678805124550	1678805124604	OK	 
+REQUEST	Open random chair	DEFAULT	1678805124597	1678805124616	OK	 
+REQUEST	Open random chair	price/	1678805124619	1678805124653	OK	 
+GROUP	Add table to Cart	1678805123024	1678805126821	196	OK
+GROUP	Add table to Cart	1678805123657	1678805126851	148	OK
+REQUEST	Click "Chairs tab"	chairs	1678805126852	1678805126870	OK	 
+REQUEST	Click "Chairs tab"	chairs	1678805126832	1678805126870	OK	 
+REQUEST	Click "Chairs tab"	ping	1678805126871	1678805126881	OK	 
+REQUEST	Click "Chairs tab"	ping	1678805126871	1678805126882	OK	 
+REQUEST	Click "Chairs tab"	?lang=en	1678805126883	1678805126905	OK	 
+REQUEST	Click "Chairs tab"	?lang=en	1678805126883	1678805126911	OK	 
+REQUEST	Click "Chairs tab"	?&store=DEFAULT&lang=en&page=0&count=15&category=51	1678805126906	1678805126954	OK	 
+REQUEST	Click "Chairs tab"	?&store=DEFAULT&lang=en&page=0&count=15&category=51	1678805126912	1678805126970	OK	 
+REQUEST	Click "Chairs tab"	?count=20&page=0&store=DEFAULT&lang=en	1678805126955	1678805126984	OK	 
+REQUEST	Click "Chairs tab"	?count=20&page=0&store=DEFAULT&lang=en	1678805126971	1678805127001	OK	 
+REQUEST	Click "Chairs tab"	DEFAULT	1678805126986	1678805127001	OK	 
+REQUEST	Click "Chairs tab"	DEFAULT	1678805127003	1678805127021	OK	 
+REQUEST	Click "Chairs tab"	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805127007	1678805127026	OK	 
+REQUEST	Click "Chairs tab"	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805127023	1678805127046	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127027	1678805127054	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127047	1678805127084	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127056	1678805127086	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127087	1678805127111	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127085	1678805127136	OK	 
+REQUEST	Click "Chairs tab"	51?store=DEFAULT&lang=en	1678805127112	1678805127144	OK	 
+REQUEST	Click "Chairs tab"	51/manufacturers/?store=DEFAULT&lang=en	1678805127145	1678805127165	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127137	1678805127165	OK	 
+REQUEST	Click "Chairs tab"	51?store=DEFAULT&lang=en	1678805127166	1678805127187	OK	 
+REQUEST	Click "Chairs tab"	51/manufacturers/?store=DEFAULT&lang=en	1678805127188	1678805127211	OK	 
+GROUP	Add table to Cart	1678805123075	1678805127233	180	OK
+REQUEST	Click "Chairs tab"	chairs	1678805127234	1678805127247	OK	 
+REQUEST	Click "Chairs tab"	ping	1678805127248	1678805127258	OK	 
+REQUEST	Click "Chairs tab"	?lang=en	1678805127259	1678805127301	OK	 
+GROUP	Add table to Cart	1678805122965	1678805127309	157	OK
+REQUEST	Click "Chairs tab"	chairs	1678805127310	1678805127316	OK	 
+REQUEST	Click "Chairs tab"	ping	1678805127317	1678805127344	OK	 
+REQUEST	Click "Chairs tab"	51/variants/?store=DEFAULT&lang=en	1678805127212	1678805127383	OK	 
+REQUEST	Click "Chairs tab"	?&store=DEFAULT&lang=en&page=0&count=15&category=51	1678805127303	1678805127404	OK	 
+REQUEST	Click "Chairs tab"	51/variants/?store=DEFAULT&lang=en	1678805127166	1678805127413	OK	 
+REQUEST	Click "Chairs tab"	?lang=en	1678805127346	1678805127418	OK	 
+GROUP	Add table to Cart	1678805123631	1678805127449	204	OK
+REQUEST	Click "Chairs tab"	?count=20&page=0&store=DEFAULT&lang=en	1678805127412	1678805127468	OK	 
+REQUEST	Click "Chairs tab"	chairs	1678805127450	1678805127509	OK	 
+REQUEST	Click "Chairs tab"	DEFAULT	1678805127474	1678805127503	OK	 
+REQUEST	Click "Chairs tab"	ping	1678805127511	1678805127536	OK	 
+REQUEST	Click "Chairs tab"	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805127514	1678805127562	OK	 
+REQUEST	Click "Chairs tab"	?&store=DEFAULT&lang=en&page=0&count=15&category=51	1678805127420	1678805127570	OK	 
+REQUEST	Click "Chairs tab"	?lang=en	1678805127537	1678805127597	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127563	1678805127611	OK	 
+REQUEST	Click "Chairs tab"	?count=20&page=0&store=DEFAULT&lang=en	1678805127572	1678805127621	OK	 
+REQUEST	Click "Chairs tab"	?&store=DEFAULT&lang=en&page=0&count=15&category=51	1678805127598	1678805127651	OK	 
+REQUEST	Click "Chairs tab"	DEFAULT	1678805127622	1678805127658	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127612	1678805127665	OK	 
+REQUEST	Click "Chairs tab"	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805127660	1678805127707	OK	 
+REQUEST	Click "Chairs tab"	?count=20&page=0&store=DEFAULT&lang=en	1678805127652	1678805127710	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127666	1678805127716	OK	 
+REQUEST	Click "Chairs tab"	51?store=DEFAULT&lang=en	1678805127716	1678805127741	OK	 
+REQUEST	Click "Chairs tab"	DEFAULT	1678805127711	1678805127741	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127708	1678805127756	OK	 
+REQUEST	Click "Chairs tab"	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805127742	1678805127775	OK	 
+REQUEST	Click "Chairs tab"	51/manufacturers/?store=DEFAULT&lang=en	1678805127742	1678805127803	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127757	1678805127819	OK	 
+REQUEST	Click "Chairs tab"	51/variants/?store=DEFAULT&lang=en	1678805127806	1678805127840	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127779	1678805127848	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127820	1678805127876	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127849	1678805127906	OK	 
+REQUEST	Click "Chairs tab"	51?store=DEFAULT&lang=en	1678805127876	1678805127909	OK	 
+REQUEST	Click "Chairs tab"	51/manufacturers/?store=DEFAULT&lang=en	1678805127910	1678805127953	OK	 
+REQUEST	Click "Chairs tab"	price/	1678805127907	1678805127956	OK	 
+REQUEST	Click "Chairs tab"	51/variants/?store=DEFAULT&lang=en	1678805127954	1678805127980	OK	 
+REQUEST	Click "Chairs tab"	51?store=DEFAULT&lang=en	1678805127957	1678805127991	OK	 
+REQUEST	Click "Chairs tab"	51/manufacturers/?store=DEFAULT&lang=en	1678805127992	1678805128014	OK	 
+GROUP	Open random chair	1678805124379	1678805128018	217	OK
+REQUEST	Click "Chairs tab"	51/variants/?store=DEFAULT&lang=en	1678805128015	1678805128034	OK	 
+REQUEST	Add chair to Cart	Add chair to cart	1678805128071	1678805128152	OK	 
+GROUP	Add table to Cart	1678805124302	1678805128196	95	OK
+REQUEST	Add chair to Cart	3e6e42656b0f4e9384658151358bf030?lang=en	1678805128169	1678805128243	OK	 
+REQUEST	Open Cart	Open Cart	1678805128200	1678805128259	OK	 
+REQUEST	Open Cart	?lang=en	1678805128260	1678805128282	OK	 
+REQUEST	Open Cart	d6649b23bf344cf590f70bd071c5ae68?store=DEFAULT	1678805128283	1678805128319	OK	 
+REQUEST	Open Cart	d6649b23bf344cf590f70bd071c5ae68?store=DEFAULT	1678805128320	1678805128365	OK	 
+REQUEST	Open Cart	ping	1678805128366	1678805128377	OK	 
+REQUEST	Open Cart	DEFAULT	1678805128379	1678805128394	OK	 
+REQUEST	Open Cart	?count=20&page=0&store=DEFAULT&lang=en	1678805128398	1678805128416	OK	 
+REQUEST	Open Cart	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805128416	1678805128428	OK	 
+GROUP	Open Cart	1678805128199	1678805128428	218	OK
+REQUEST	Click proceed to checkout	checkout	1678805128429	1678805128468	OK	 
+REQUEST	Click proceed to checkout	ping	1678805128470	1678805128482	OK	 
+GROUP	Add table to Cart	1678805123594	1678805128563	216	OK
+GROUP	Add table to Cart	1678805123814	1678805128563	130	OK
+USER	Shopizer performance testing	END	1678805128683
+USER	Shopizer performance testing	END	1678805128687
+REQUEST	Click proceed to checkout	/country?store=DEFAULT&lang=en	1678805128483	1678805128761	OK	 
+REQUEST	Click proceed to checkout	d6649b23bf344cf590f70bd071c5ae68?store=DEFAULT	1678805128764	1678805128822	OK	 
+REQUEST	Click proceed to checkout	zones/?code=	1678805128824	1678805128857	OK	 
+REQUEST	Click proceed to checkout	?lang=en	1678805128858	1678805128882	OK	 
+REQUEST	Click proceed to checkout	config/	1678805128884	1678805128960	OK	 
+REQUEST	Click proceed to checkout	zones/?code=	1678805128962	1678805128974	OK	 
+REQUEST	Click proceed to checkout	total/	1678805128976	1678805129072	OK	 
+REQUEST	Click proceed to checkout	shipping	1678805129075	1678805129146	OK	 
+REQUEST	Click proceed to checkout	DEFAULT	1678805129147	1678805129201	OK	 
+REQUEST	Click proceed to checkout	?count=20&page=0&store=DEFAULT&lang=en	1678805129204	1678805129232	OK	 
+REQUEST	Click proceed to checkout	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805129234	1678805129251	OK	 
+GROUP	Add table to Cart	1678805124466	1678805129324	131	OK
+USER	Shopizer performance testing	END	1678805129338
+REQUEST	Click proceed to checkout	gen_204?csp_test=true	1678805129253	1678805129648	OK	 
+GROUP	Click proceed to checkout	1678805128428	1678805129688	1193	OK
+USER	Shopizer performance testing	END	1678805129712
+GROUP	Click "Chairs tab"	1678805126851	1678805130614	517	OK
+GROUP	Click "Chairs tab"	1678805126822	1678805130638	561	OK
+REQUEST	Open random chair	genuine-chair	1678805130642	1678805130679	OK	 
+REQUEST	Open random chair	chair-beige	1678805130634	1678805130679	OK	 
+REQUEST	Open random chair	ping	1678805130680	1678805130694	OK	 
+REQUEST	Open random chair	ping	1678805130680	1678805130691	OK	 
+REQUEST	Open random chair	?lang=en	1678805130697	1678805130732	OK	 
+REQUEST	Open random chair	?lang=en	1678805130697	1678805130742	OK	 
+REQUEST	Open random chair	51/reviews?store=DEFAULT	1678805130733	1678805130759	OK	 
+REQUEST	Open random chair	51/reviews?store=DEFAULT	1678805130743	1678805130768	OK	 
+REQUEST	Open random chair	51?lang=en&store=DEFAULT	1678805130763	1678805130794	OK	 
+REQUEST	Open random chair	51?lang=en&store=DEFAULT	1678805130769	1678805130812	OK	 
+REQUEST	Open random chair	?count=20&page=0&store=DEFAULT&lang=en	1678805130796	1678805130837	OK	 
+REQUEST	Open random chair	?count=20&page=0&store=DEFAULT&lang=en	1678805130814	1678805130851	OK	 
+REQUEST	Open random chair	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805130838	1678805130880	OK	 
+REQUEST	Open random chair	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805130852	1678805130883	OK	 
+REQUEST	Open random chair	DEFAULT	1678805130885	1678805130903	OK	 
+REQUEST	Open random chair	DEFAULT	1678805130881	1678805130910	OK	 
+REQUEST	Open random chair	price/	1678805130912	1678805130947	OK	 
+REQUEST	Open random chair	price/	1678805130912	1678805130954	OK	 
+GROUP	Click "Chairs tab"	1678805127310	1678805131419	655	OK
+REQUEST	Open random chair	chair-beige	1678805131426	1678805131455	OK	 
+REQUEST	Open random chair	ping	1678805131457	1678805131467	OK	 
+REQUEST	Open random chair	?lang=en	1678805131471	1678805131493	OK	 
+GROUP	Add chair to Cart	1678805128018	1678805131508	155	OK
+REQUEST	Open random chair	51/reviews?store=DEFAULT	1678805131494	1678805131510	OK	 
+USER	Shopizer performance testing	END	1678805131519
+REQUEST	Open random chair	51?lang=en&store=DEFAULT	1678805131511	1678805131539	OK	 
+REQUEST	Open random chair	?count=20&page=0&store=DEFAULT&lang=en	1678805131541	1678805131554	OK	 
+REQUEST	Open random chair	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805131555	1678805131567	OK	 
+REQUEST	Open random chair	DEFAULT	1678805131568	1678805131579	OK	 
+REQUEST	Open random chair	price/	1678805131582	1678805131613	OK	 
+GROUP	Click "Chairs tab"	1678805127234	1678805131717	570	OK
+GROUP	Click "Chairs tab"	1678805127450	1678805131718	568	OK
+REQUEST	Open random chair	chair	1678805131719	1678805131730	OK	 
+REQUEST	Open random chair	chair	1678805131719	1678805131730	OK	 
+REQUEST	Open random chair	ping	1678805131731	1678805131744	OK	 
+REQUEST	Open random chair	ping	1678805131731	1678805131747	OK	 
+REQUEST	Open random chair	?lang=en	1678805131748	1678805131771	OK	 
+REQUEST	Open random chair	?lang=en	1678805131745	1678805131790	OK	 
+REQUEST	Open random chair	51/reviews?store=DEFAULT	1678805131773	1678805131794	OK	 
+REQUEST	Open random chair	51/reviews?store=DEFAULT	1678805131792	1678805131817	OK	 
+REQUEST	Open random chair	51?lang=en&store=DEFAULT	1678805131795	1678805131819	OK	 
+REQUEST	Open random chair	?count=20&page=0&store=DEFAULT&lang=en	1678805131821	1678805131838	OK	 
+REQUEST	Open random chair	51?lang=en&store=DEFAULT	1678805131819	1678805131849	OK	 
+REQUEST	Open random chair	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805131840	1678805131861	OK	 
+REQUEST	Open random chair	?count=20&page=0&store=DEFAULT&lang=en	1678805131850	1678805131870	OK	 
+REQUEST	Open random chair	DEFAULT	1678805131862	1678805131879	OK	 
+REQUEST	Open random chair	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805131871	1678805131889	OK	 
+REQUEST	Open random chair	DEFAULT	1678805131890	1678805131907	OK	 
+REQUEST	Open random chair	price/	1678805131883	1678805131916	OK	 
+REQUEST	Open random chair	price/	1678805131908	1678805131932	OK	 
+GROUP	Open random chair	1678805130638	1678805134472	292	OK
+REQUEST	Add chair to Cart	Add chair to cart	1678805134495	1678805134584	OK	 
+REQUEST	Add chair to Cart	fd5b2136c5094555888781a47cc7e26c?lang=en	1678805134596	1678805134632	OK	 
+GROUP	Open random chair	1678805131419	1678805134680	172	OK
+REQUEST	Add chair to Cart	Add chair to cart	1678805134681	1678805134770	OK	 
+REQUEST	Add chair to Cart	24578cd605b74cf5a4e52eea20b0ee0d?lang=en	1678805134775	1678805134807	OK	 
+GROUP	Open random chair	1678805130615	1678805135099	295	OK
+GROUP	Open random chair	1678805131718	1678805135113	203	OK
+REQUEST	Add chair to Cart	Add chair to cart	1678805135105	1678805135197	OK	 
+REQUEST	Add chair to Cart	Add chair to cart	1678805135115	1678805135214	OK	 
+REQUEST	Add chair to Cart	669c10784d4c40bc8978424e21db04fe?lang=en	1678805135214	1678805135323	OK	 
+REQUEST	Add chair to Cart	05942c2e8f8841029c2a68335a72283e?lang=en	1678805135217	1678805135328	OK	 
+GROUP	Open random chair	1678805131717	1678805136248	183	OK
+REQUEST	Add chair to Cart	Add chair to cart	1678805136260	1678805136364	OK	 
+REQUEST	Add chair to Cart	dd77a4b32f164424b22e4ff2447dad2b?lang=en	1678805136384	1678805136438	OK	 
+GROUP	Add chair to Cart	1678805134680	1678805138655	121	OK
+REQUEST	Open Cart	Open Cart	1678805138667	1678805138686	OK	 
+REQUEST	Open Cart	?lang=en	1678805138687	1678805138713	OK	 
+REQUEST	Open Cart	24578cd605b74cf5a4e52eea20b0ee0d?store=DEFAULT	1678805138715	1678805138753	OK	 
+REQUEST	Open Cart	24578cd605b74cf5a4e52eea20b0ee0d?store=DEFAULT	1678805138754	1678805138782	OK	 
+REQUEST	Open Cart	ping	1678805138782	1678805138791	OK	 
+REQUEST	Open Cart	DEFAULT	1678805138793	1678805138807	OK	 
+GROUP	Add chair to Cart	1678805134473	1678805138824	125	OK
+REQUEST	Open Cart	?count=20&page=0&store=DEFAULT&lang=en	1678805138808	1678805138831	OK	 
+USER	Shopizer performance testing	END	1678805138833
+REQUEST	Open Cart	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805138832	1678805138846	OK	 
+GROUP	Open Cart	1678805138656	1678805138846	171	OK
+REQUEST	Click proceed to checkout	checkout	1678805138846	1678805138850	OK	 
+REQUEST	Click proceed to checkout	ping	1678805138851	1678805138858	OK	 
+REQUEST	Click proceed to checkout	/country?store=DEFAULT&lang=en	1678805138859	1678805138880	OK	 
+REQUEST	Click proceed to checkout	24578cd605b74cf5a4e52eea20b0ee0d?store=DEFAULT	1678805138881	1678805138916	OK	 
+REQUEST	Click proceed to checkout	zones/?code=	1678805138916	1678805138927	OK	 
+REQUEST	Click proceed to checkout	?lang=en	1678805138928	1678805138950	OK	 
+REQUEST	Click proceed to checkout	config/	1678805138950	1678805138969	OK	 
+REQUEST	Click proceed to checkout	zones/?code=	1678805138970	1678805138980	OK	 
+REQUEST	Click proceed to checkout	total/	1678805138981	1678805139016	OK	 
+GROUP	Add chair to Cart	1678805135113	1678805139039	210	OK
+USER	Shopizer performance testing	END	1678805139041
+REQUEST	Click proceed to checkout	shipping	1678805139018	1678805139062	OK	 
+REQUEST	Click proceed to checkout	DEFAULT	1678805139063	1678805139090	OK	 
+REQUEST	Click proceed to checkout	?count=20&page=0&store=DEFAULT&lang=en	1678805139091	1678805139109	OK	 
+REQUEST	Click proceed to checkout	pages/?page=0&count=20&store=DEFAULT&lang=en	1678805139109	1678805139127	OK	 
+REQUEST	Click proceed to checkout	gen_204?csp_test=true	1678805139128	1678805139275	OK	 
+GROUP	Click proceed to checkout	1678805138846	1678805139275	418	OK
+USER	Shopizer performance testing	END	1678805139279
+GROUP	Add chair to Cart	1678805135099	1678805139856	201	OK
+GROUP	Add chair to Cart	1678805136248	1678805139857	158	OK
+USER	Shopizer performance testing	END	1678805139876
+USER	Shopizer performance testing	END	1678805139876
